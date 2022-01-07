@@ -1,0 +1,19 @@
+# WordPress files
+wp-content/plugins/
+wp-content/uploads
+wp-content/languages
+
+# Env files
+.env
+
+# Package managers
+/vendor/
+/node_modules/
+
+# ignore log files and databases
+*.log
+*.sql
+*.sqlite
+
+# Misc
+.idea/
