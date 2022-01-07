@@ -2,9 +2,7 @@
 wp-content/plugins/
 wp-content/uploads
 wp-content/languages
-
-# Env files
-.env
+wp-config.php
 
 # Package managers
 /vendor/
