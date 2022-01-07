@@ -1,7 +1,6 @@
 # WordPress files
 wp-content/plugins/
 wp-content/uploads
-wp-content/languages
 wp-config.php
 
 # Package managers
