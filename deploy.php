@@ -16,7 +16,6 @@ set('shared_files', ['wp-config.php']);
 set('shared_dirs', ['wp-content/uploads']);
 set('writable_dirs', ['wp-content/uploads']);
 
-
 // Tasks
 desc('Deploy the project');
 task('deploy', [
